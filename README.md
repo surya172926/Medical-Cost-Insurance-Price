@@ -15,19 +15,20 @@ Visualization of insights and model performance
 Technologies Used:
 
 Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 Jupyter Notebook
 
 Machine Learning Models:
 
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
+Linear Regression,
+Decision Tree Regressor,
+Random Forest Regressor,
+Gradient Boosting Regressor,
 
 Dataset
 
